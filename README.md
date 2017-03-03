@@ -28,5 +28,7 @@ In case , your are behind proxy or facing connection timed out issue while insta
       pip install --user --upgrade ansible
 Vagrant-Manager helps you manage all your virtual machines in one place directly from the menubar.
 
+###For Windows
+Windows isn’t supported for the control machine
 
 
