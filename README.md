@@ -118,4 +118,7 @@ Do this:
 	vagrant up --provider=aws ...
 ###Acknowledgements
 
+[![Browserstack](https://avatars0.githubusercontent.com/u/1119453?v=3&s=144)](https://www.browserstack.com/)  | [![Opbeat](https://avatars1.githubusercontent.com/u/1669860?v=3&s=144)](https://opbeat.com/)  | [![Travis CI](https://avatars2.githubusercontent.com/u/639823?v=3&s=144)](https://travis-ci.com/)
+---|--- | ---
+[BrowserStack](https://www.browserstack.com/) |[Opbeat](https://opbeat.com/) |[Travis CI](https://travis-ci.com/)
 
