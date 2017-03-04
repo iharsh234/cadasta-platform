@@ -29,6 +29,7 @@ In case , your are behind proxy or facing connection timed out issue while insta
 Vagrant-Manager helps you manage all your virtual machines in one place directly from the menubar.
 
 ###For Windows
-Windows isn’t supported for the control machine
+Windows isn’t supported for the control machine. You can download setup files for [VirtualBox](https://www.virtualbox.org/wiki/Downloads) and [Vagrant](https://www.vagrantup.com/downloads.html)
+respectively and run it. Setup wizard is straightforward, just it will ask to accept license agreement and the path to install, as you will need to use command line.
 
 
