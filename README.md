@@ -31,6 +31,7 @@ Vagrant-Manager helps you manage all your virtual machines in one place directly
 ###For Windows
 You can download setup files for [VirtualBox](https://www.virtualbox.org/wiki/Downloads) and [Vagrant](https://www.vagrantup.com/downloads.html) respectively and run it. Setup wizard is straightforward, just it will ask to accept license agreement and the path to install, as you will need to use command line.
 Windows isn’t supported for the control machine. Go through  ansible [docs](http://docs.ansible.com/ansible/intro_windows.html).
+<br>
 [Here](https://www.jeffgeerling.com/blog/running-ansible-within-windows) is the steps for getting ansible running on Windows:
 
 - Download and install [Cygwin](http://cygwin.com/install.html), with at least the following packages selected (you can select the packages during the install process):
